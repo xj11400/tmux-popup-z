@@ -2,6 +2,8 @@
 
 Wrap Tmux popup.
 
+![Popup](./screenshots/popup.png)
+
 ## Key Bindings
 
 - `@z-popup-bind` : popup (default: `` ` ``)
